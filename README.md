@@ -1,8 +1,8 @@
 # Excel-Sales-Analytics
 **Project Objective:**
 
-    1) Generate a detailed Customer Performance Report.
-    2) Compare Market Performance and Sales Targets.
+    1) Generate a detailed Customer Performance Report.[https://github.com/KanimozhiSettu/Excel-Sales-Analytics/blob/main/CustomerSalesReport.pdf]
+    2) Compare Market Performance and Sales Targets.[https://github.com/KanimozhiSettu/Excel-Sales-Analytics/blob/main/TargetvsMarketReportProject.pdf]
 
 Purpose of Sales Analytics:
   Enable businesses to track and evaluate sales activities and performance effectively.
